@@ -1,0 +1,3 @@
+- install gradle dependencies
+- run `main` method
+- type `import` on launched spring shell to start the parsing process
